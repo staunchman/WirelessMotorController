@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WirelessMotorController.iml" filepath="$PROJECT_DIR$/WirelessMotorController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WirelessMotorController/WirelessMotorController-WirelessMotorController.iml" filepath="$PROJECT_DIR$/WirelessMotorController/WirelessMotorController-WirelessMotorController.iml" />
+    </modules>
+  </component>
+</project>
+
